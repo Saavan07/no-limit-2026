@@ -35,7 +35,7 @@ The final update expanded selected preflop pressure: big-blind reshoves at fulle
 
 ## Quick checks
 
-These two checks need only standard Python:
+These checks need only standard Python:
 
 ```sh
 python3 scripts/verify_archive.py
