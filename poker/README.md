@@ -1,8 +1,12 @@
-# 74suited at the Pittsburgh No Limit regional
+# 74suited: tournament performance and strategy evolution
 
-Saav07 competed solo on November 12, 2026. The bot takes its name from Saavan's favorite hand, seven-four suited. The regional variant was double-board pineapple with a discard after turn betting.
+**Sequoia Capital, OpenAI, and Citadel Securities | No Limit 2026 | Pittsburgh**
 
-**Saav07 finished 27th overall with 487.3205 weighted points.** The Round 6 pressure bot placed 25th of 112 active teams, averaging 15.6105 points over 20,000 tables. Fifth overall finished on 565.1245, a gap of 77.8040 weighted points.
+Selected to compete in a tournament with **8,000+ applicants** across the event, I competed solo as **Saav07** on November 12, 2026. I built the initial double-board pineapple agent during the **60-minute build window**, then used practice evidence and opponent analysis to refine it between scored rounds. [Event context and sources](../docs/provenance.md#event-context-and-sources)
+
+The bot competed in **120,000 simulated tables across six scored rounds**. Its final version completed **2,741,180 decisions with zero missed decisions and zero restarts**, placing **25th of 112 active teams** in Round 6. The overall Pittsburgh finish was **27th**, with **487.3205 weighted points**.
+
+This case study shows how the strategy evolved, which changes earned a place in the final submission, and where the evidence remains limited. The regional variant required one discard after turn betting, with the retained pair used on both boards.
 
 ## Six scored rounds
 
