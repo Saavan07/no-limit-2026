@@ -1,6 +1,8 @@
 # Blotto research
 
-This work prepared for No Limit's allocation-game application. It began with exact scoring and expanded into population modeling, adversarial testing, historical feature transfers, adapting strategy populations, and independent replication.
+I built this research toolkit while preparing my application for **No Limit, hosted by Sequoia Capital, OpenAI, and Citadel Securities**. I later competed solo in the Pittsburgh regional. The work began with exact game scoring and grew into population modeling, adversarial tests, and a complete search of the legal allocation space.
+
+The central question was practical: which allocation should I choose when I know the rules but do not know how the other entrants will play? The project tests how that answer changes with the opponent model, and keeps the counterexamples that overturned earlier choices.
 
 | Game | Objective | Final research choice |
 | --- | --- | --- |
