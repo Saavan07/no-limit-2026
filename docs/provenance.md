@@ -1,5 +1,13 @@
 # Provenance and publication scope
 
+## Event context and sources
+
+No Limit was hosted by **Sequoia Capital, OpenAI, and Citadel Securities**. The [official event website](https://pokerbot.sequoiacap.com/) identifies the hosts, the 60-minute build format, and the November 12, 2026 Pittsburgh regional.
+
+The **8,000+ applicants** figure was announced by the organizers at the Pittsburgh competition, as reported by Saavan. It refers to the tournament-wide application pool. It is not a claim that 8,000 people competed in Pittsburgh, that Saavan placed 27th nationally, or that his acceptance rate can be calculated from regional team counts. We have not independently recovered a recording or written organizer source for that announcement.
+
+The results ledger establishes 20,000 tables in each of six scored regional rounds, totaling 120,000 tables. The 60-minute claim describes the initial build phase; subsequent versions incorporated changes between rounds.
+
 ## Authorship and assistance
 
 Saavan Kiran competed solo as Saav07 and directed the project: preparation, strategy priorities, risk tolerance, and final submission goals. OpenAI Codex assisted with research, implementation, tests, opponent analysis, and iteration. The published code should be understood as AI-assisted competition work, not as an unaided implementation claim.
