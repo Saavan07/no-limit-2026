@@ -1,0 +1,123 @@
+{
+  "all_evaluated_fields": 109,
+  "chosen_index": 13134,
+  "conditional_full_space_optimality_shortfall_bound": 0.07464254961732575,
+  "confirmation_candidates": 22,
+  "confirmation_maximum": 7.248887538909912,
+  "confirmation_minimum": 4.999792575836182,
+  "confirmation_robust_lower": 4.981535770249539,
+  "confirmation_robust_upper": 5.018049381422824,
+  "full_action_universe": 4598126,
+  "full_space_optimum_upper": 5.056178319866865,
+  "full_space_selection_cell_error_bound": 0.043427694256513494,
+  "joint_numerical_confidence": 0.95,
+  "named_comparisons": [
+    {
+      "allocation": [
+        0,
+        0,
+        37,
+        63,
+        0
+      ],
+      "maximum": 7.385587692260742,
+      "minimum": 4.969977378845215,
+      "name": "adjacent_C3_C4",
+      "robust_lower": 4.954634345869983,
+      "robust_upper": 4.985320411820447
+    },
+    {
+      "allocation": [
+        0,
+        0,
+        0,
+        0,
+        100
+      ],
+      "maximum": 5.510456562042236,
+      "minimum": 4.783044338226318,
+      "name": "all_in_five",
+      "robust_lower": 4.767045918341631,
+      "robust_upper": 4.799042758111006
+    },
+    {
+      "allocation": [
+        0,
+        0,
+        0,
+        100,
+        0
+      ],
+      "maximum": 3.590052604675293,
+      "minimum": 3.039794921875,
+      "name": "all_in_four",
+      "robust_lower": 3.0340653206153148,
+      "robust_upper": 3.0455245231346852
+    },
+    {
+      "allocation": [
+        0,
+        37,
+        0,
+        63,
+        0
+      ],
+      "maximum": 7.578868389129639,
+      "minimum": 4.31850528717041,
+      "name": "best_C2_C4_last_stage",
+      "robust_lower": 4.3043707809759075,
+      "robust_upper": 4.332639793364913
+    },
+    {
+      "allocation": [
+        15,
+        18,
+        49,
+        12,
+        6
+      ],
+      "maximum": 4.79559326171875,
+      "minimum": 2.6661739349365234,
+      "name": "historical_balanced",
+      "robust_lower": 2.6508527475851538,
+      "robust_upper": 2.681495122287893
+    },
+    {
+      "allocation": [
+        0,
+        36,
+        0,
+        64,
+        0
+      ],
+      "maximum": 7.557594299316406,
+      "minimum": 4.252419471740723,
+      "name": "previous_C2_C4",
+      "robust_lower": 4.23853983839491,
+      "robust_upper": 4.266299105086535
+    },
+    {
+      "allocation": [
+        0,
+        0,
+        36,
+        64,
+        0
+      ],
+      "maximum": 7.28391170501709,
+      "minimum": 4.963450908660889,
+      "name": "previous_C3_C4",
+      "robust_lower": 4.948402481069348,
+      "robust_upper": 4.97849933625243
+    }
+  ],
+  "primary_field_count": 99,
+  "scope": "Global finite-action sampling bound plus independent fixed-candidate confirmation, conditional on the frozen population laws. Excludes population-model error and does not certify the hidden applicant optimum.",
+  "working_allocation": [
+    0,
+    2,
+    35,
+    63,
+    0
+  ]
+}

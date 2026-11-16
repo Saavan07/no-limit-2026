@@ -1,0 +1,16 @@
+{
+  "protocol_version": 1,
+  "batch_size": 50000,
+  "verification_batch_size": 44444,
+  "epsilon_grid": ["0", "0.01", "0.05", "0.10", "0.20", "0.25", "0.50", "0.75", "1"],
+  "solver_shares": ["0", "0.25", "0.50", "0.75", "1"],
+  "behavior_reference_weights": {
+    "balanced": [1,1,1,1,1],
+    "historical_emphasis": [1,4,1,1,1],
+    "anchor_emphasis": [1,1,4,1,1],
+    "without_analytic_controls": [0,1,1,1,1]
+  },
+  "independent_dp_samples": 3000,
+  "verification_seed": 2026103019,
+  "human_input": "reserved; not supplied or used"
+}

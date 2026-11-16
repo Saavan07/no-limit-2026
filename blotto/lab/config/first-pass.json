@@ -1,0 +1,10 @@
+{
+  "seed": 20261029,
+  "finite_population_size": 2000,
+  "history_steps": 5000,
+  "record_every": 100,
+  "checkpoint_every": 250,
+  "latest_only_max_steps": 150,
+  "full_scan_scenarios": ["uniform_legal", "soldier_random", "value_jitter"],
+  "check_every_constructive_counter": true
+}

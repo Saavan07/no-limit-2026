@@ -1,0 +1,23 @@
+{
+  "protocol_version": 1,
+  "seed": 2026103001,
+  "development_sample_size": 100000,
+  "evaluation_sample_size": 200000,
+  "development_families": ["subset_value", "cheap_scouts", "fortress_five", "skip_one", "round_tens", "anchor_snipers", "heterogeneous_power", "monotone_ladder"],
+  "validation_novel_families": ["inverse_value", "pair_commitment", "grid_three"],
+  "audit_novel_families": ["rotating_templates", "budget_blocks", "even_thresholds"],
+  "development_replicates": 2,
+  "waves": 8,
+  "responses_per_wave": 192,
+  "mutation_probability": 0.5,
+  "mutation_steps": 2,
+  "mutation_max_transfer": 8,
+  "strategic_share_percentages": [0, 25, 50, 75, 100],
+  "belief_concentrations": [0.05, 0.5, 2.0],
+  "memory_policies": ["latest_only", "retain_history"],
+  "enumeration_batch_size": 50000,
+  "solver_sensitivity_shares": [0, 0.25, 0.5, 0.75, 1],
+  "contamination_shares": [0, 0.05, 0.1, 0.25],
+  "sampling_alpha": 0.05,
+  "human_strategies": "reserved for a later challenge; no human strategy input used"
+}

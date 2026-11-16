@@ -1,0 +1,15 @@
+{
+  "groups_per_field": 524288,
+  "fresh_candidate_seed": 91380671,
+  "cdf_original_actions_per_family": 384,
+  "cdf_original_action_seed": 733402,
+  "cdf_original_groups": 65536,
+  "cdf_fresh_actions_per_family": 128,
+  "cdf_fresh_action_seed": 91391001,
+  "cdf_fresh_groups": 131072,
+  "cdf_fresh_opponent_seed": 91401001,
+  "primary_rule": "Maximize minimum expected placement payout across the 17 frozen retained fields; exact sample ties choose lexicographically. This labels a catalog leader, not an automatic application recommendation.",
+  "sensitivity_rules": ["Same rule on the 9 strict fields", "Minimize maximum regret to the best frozen candidate in each field"],
+  "confidence_alpha": 0.05,
+  "scope": "Frozen finite candidate pool, new opponent draws, unchanged hypothetical fitted populations. Model compatibility is not population identification. Old banks are known stress evidence. No averaging across fields implies a probability distribution over them."
+}

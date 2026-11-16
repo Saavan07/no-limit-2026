@@ -1,0 +1,308 @@
+{
+  "fit_0": {
+    "actual_exact_allin5_share": 0.0517962339523052,
+    "castle_top_tie_probabilities": [
+      0.009645462036132812,
+      0.020877838134765625,
+      0.00064849853515625,
+      0.007781982421875,
+      0.0005130767822265625
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.6864490509033203,
+      0.0,
+      0.9081001281738281,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.61529541015625
+  },
+  "fit_1": {
+    "actual_exact_allin5_share": 0.07728666168894296,
+    "castle_top_tie_probabilities": [
+      0.028957366943359375,
+      0.031126022338867188,
+      0.003093719482421875,
+      0.014665603637695312,
+      0.0003566741943359375
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.7135276794433594,
+      0.0,
+      0.9286727905273438,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.657135009765625
+  },
+  "fit_10": {
+    "actual_exact_allin5_share": 0.056766783286969776,
+    "castle_top_tie_probabilities": [
+      0.004619598388671875,
+      0.023996353149414062,
+      0.00138092041015625,
+      0.014965057373046875,
+      0.00030517578125
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.8462715148925781,
+      0.0,
+      0.8979587554931641,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.7557125091552734
+  },
+  "fit_12": {
+    "actual_exact_allin5_share": 0.06432953725964895,
+    "castle_top_tie_probabilities": [
+      0.005359649658203125,
+      0.021318435668945312,
+      0.0010051727294921875,
+      0.008108139038085938,
+      0.0007343292236328125
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.6902599334716797,
+      0.0,
+      0.9136638641357422,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.6231288909912109
+  },
+  "fit_13": {
+    "actual_exact_allin5_share": 0.05287992000019018,
+    "castle_top_tie_probabilities": [
+      0.03760528564453125,
+      0.030872344970703125,
+      0.00978851318359375,
+      0.0170745849609375,
+      0.0011234283447265625
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.698699951171875,
+      0.0,
+      0.7870273590087891,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.5324420928955078
+  },
+  "fit_14": {
+    "actual_exact_allin5_share": 0.0953756887959134,
+    "castle_top_tie_probabilities": [
+      0.05253028869628906,
+      0.010341644287109375,
+      0.00215911865234375,
+      0.0010814666748046875,
+      7.2479248046875e-05
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.8036518096923828,
+      0.0,
+      0.9767494201660156,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.7835502624511719
+  },
+  "fit_18": {
+    "actual_exact_allin5_share": 0.049618009747416404,
+    "castle_top_tie_probabilities": [
+      0.0045528411865234375,
+      0.017801284790039062,
+      0.0015735626220703125,
+      0.010236740112304688,
+      8.58306884765625e-05
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.6008434295654297,
+      0.0,
+      0.91595458984375,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.5413742065429688
+  },
+  "fit_19": {
+    "actual_exact_allin5_share": 0.08335342084937208,
+    "castle_top_tie_probabilities": [
+      0.03425788879394531,
+      0.0161895751953125,
+      0.0017757415771484375,
+      0.0018024444580078125,
+      0.00032806396484375
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.8289985656738281,
+      0.0,
+      0.9825687408447266,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.8136081695556641
+  },
+  "fit_2": {
+    "actual_exact_allin5_share": 0.04817443407768224,
+    "castle_top_tie_probabilities": [
+      0.022951126098632812,
+      0.025699615478515625,
+      0.0027256011962890625,
+      0.009855270385742188,
+      0.000186920166015625
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.7674579620361328,
+      0.0,
+      0.9192848205566406,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.7003803253173828
+  },
+  "fit_21": {
+    "actual_exact_allin5_share": 0.09584266917489738,
+    "castle_top_tie_probabilities": [
+      0.06842041015625,
+      0.019578933715820312,
+      0.028600692749023438,
+      0.016109466552734375,
+      0.0003871917724609375
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.5979385375976562,
+      0.0,
+      0.8310585021972656,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.47986793518066406
+  },
+  "fit_22": {
+    "actual_exact_allin5_share": 0.09225568059196573,
+    "castle_top_tie_probabilities": [
+      0.02065277099609375,
+      0.027338027954101562,
+      0.015512466430664062,
+      0.01043701171875,
+      0.0003948211669921875
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.6899547576904297,
+      0.0,
+      0.9189453125,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.6267910003662109
+  },
+  "fit_24": {
+    "actual_exact_allin5_share": 0.060630184306455864,
+    "castle_top_tie_probabilities": [
+      0.00551605224609375,
+      0.020505905151367188,
+      0.00116729736328125,
+      0.009466171264648438,
+      0.000568389892578125
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.7348918914794922,
+      0.0,
+      0.8977489471435547,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.6519832611083984
+  },
+  "fit_27": {
+    "actual_exact_allin5_share": 0.0,
+    "castle_top_tie_probabilities": [
+      0.003536224365234375,
+      0.03295326232910156,
+      0.0005207061767578125,
+      0.022272109985351562,
+      0.0024204254150390625
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.6020069122314453,
+      0.0,
+      0.8869495391845703,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.5227317810058594
+  },
+  "fit_28": {
+    "actual_exact_allin5_share": 0.07181359258457586,
+    "castle_top_tie_probabilities": [
+      0.0053462982177734375,
+      0.037364959716796875,
+      0.00274658203125,
+      0.015096664428710938,
+      0.0012874603271484375
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.7893905639648438,
+      0.0,
+      0.8854713439941406,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.6924762725830078
+  },
+  "fit_3": {
+    "actual_exact_allin5_share": 0.07283922780458076,
+    "castle_top_tie_probabilities": [
+      0.0108795166015625,
+      0.03177642822265625,
+      0.00617218017578125,
+      0.01337432861328125,
+      0.00079345703125
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.7350196838378906,
+      0.0,
+      0.9379768371582031,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.6851482391357422
+  },
+  "fit_6": {
+    "actual_exact_allin5_share": 0.00781953107632467,
+    "castle_top_tie_probabilities": [
+      0.01239013671875,
+      0.015954971313476562,
+      0.0023441314697265625,
+      0.014158248901367188,
+      0.0005435943603515625
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.5974979400634766,
+      0.0,
+      0.8798923492431641,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.5129528045654297
+  },
+  "fit_9": {
+    "actual_exact_allin5_share": 0.036031836244261324,
+    "castle_top_tie_probabilities": [
+      0.0124359130859375,
+      0.017606735229492188,
+      0.0035686492919921875,
+      0.01300048828125,
+      0.0003452301025390625
+    ],
+    "outright_castle_win_probabilities": [
+      0.0,
+      0.5538120269775391,
+      0.0,
+      0.8995933532714844,
+      0.0
+    ],
+    "probability_outright_wins_both_2_and_4": 0.4867134094238281
+  }
+}

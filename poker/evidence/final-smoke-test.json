@@ -1,0 +1,32 @@
+{
+  "seed": "893227",
+  "tables": 180,
+  "bots": {
+    "p9_pressure_pure#0": {
+      "average_points": 45.389,
+      "places": {
+        "1": 151,
+        "2": 4,
+        "3": 25
+      },
+      "failed_decisions": 0
+    },
+    "check_or_fold#1": {
+      "average_points": 29.611,
+      "places": {
+        "2": 173,
+        "3": 7
+      },
+      "failed_decisions": 0
+    },
+    "min_raiser#2": {
+      "average_points": 25.0,
+      "places": {
+        "1": 29,
+        "2": 3,
+        "3": 148
+      },
+      "failed_decisions": 0
+    }
+  }
+}

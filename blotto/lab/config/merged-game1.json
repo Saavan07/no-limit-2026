@@ -1,0 +1,23 @@
+{
+  "protocol_version": 1,
+  "seed": 2026110101,
+  "evaluation_sample_size": 200000,
+  "enumeration_batch_size": 30000,
+  "verification_batch_size": 33333,
+  "mixture_box": {"h": ["0","1"], "l": ["0","0.5"], "w": ["0","1"], "z": ["0","0.25"]},
+  "midpoint_prior": {"h":"0.5", "l":"0.25", "w":"0.5", "z":"0.125"},
+  "learning_steps": 600,
+  "invasion_every": 100,
+  "invasion_seed_mass": 0.01,
+  "record_every": 50,
+  "quantization_mass": 1000000000000,
+  "validation_win_shares": [0.25,0.75],
+  "audit_win_shares": [0.5,0.9],
+  "learning_rules": ["replicator","payoff_replacement"],
+  "validation_mutations": [0.01],
+  "validation_initials": ["source_balanced","geometric_tilt"],
+  "audit_mutations": [0,0.02],
+  "audit_initials": ["dirichlet_sparse"],
+  "sampling_alpha": 0.05,
+  "game2_status": "not started; human ideas reserved"
+}

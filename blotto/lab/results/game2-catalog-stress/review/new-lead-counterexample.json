@@ -1,0 +1,78 @@
+{
+  "candidate": [
+    0,
+    0,
+    36,
+    64,
+    0
+  ],
+  "opponents": [
+    [
+      1,
+      1,
+      0,
+      65,
+      33
+    ],
+    [
+      1,
+      1,
+      0,
+      65,
+      33
+    ],
+    [
+      1,
+      1,
+      0,
+      65,
+      33
+    ]
+  ],
+  "outcome": {
+    "castle_points": [
+      {
+        "decimal": 3.0,
+        "denominator": 1,
+        "numerator": 3
+      },
+      {
+        "decimal": 4.0,
+        "denominator": 1,
+        "numerator": 4
+      },
+      {
+        "decimal": 4.0,
+        "denominator": 1,
+        "numerator": 4
+      },
+      {
+        "decimal": 4.0,
+        "denominator": 1,
+        "numerator": 4
+      }
+    ],
+    "payouts": [
+      {
+        "decimal": 0.0,
+        "denominator": 1,
+        "numerator": 0
+      },
+      {
+        "decimal": 5.0,
+        "denominator": 1,
+        "numerator": 5
+      },
+      {
+        "decimal": 5.0,
+        "denominator": 1,
+        "numerator": 5
+      },
+      {
+        "decimal": 5.0,
+        "denominator": 1,
+        "numerator": 5
+      }
+    ]
+  }
+}

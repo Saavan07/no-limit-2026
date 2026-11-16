@@ -1,0 +1,15 @@
+{
+  "protocol_version": 1,
+  "seed": 2026111101,
+  "grid_units": 10,
+  "grid_mass": 100,
+  "center_mass": 200,
+  "evaluation_triplets": 65536,
+  "styles": ["noisy", "rounded", "contrarian"],
+  "shortlist_center_per_class": 12,
+  "shortlist_robust_per_class": 8,
+  "sampling_alpha": 0.05,
+  "human_literals": {"human_89":[2,2,3,4,89],"human_96":[1,1,1,1,96],"human_100":[0,0,0,0,100]},
+  "family_order": ["all_in", "abandon", "broad", "near_all_in"],
+  "game1_recommendation": [3,8,4,44,41]
+}

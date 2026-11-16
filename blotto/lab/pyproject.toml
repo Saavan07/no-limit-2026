@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sequoia-blotto-lab"
+version = "0.18.0"
+description = "Exact Blotto scoring, population analysis, and reproducible response experiments"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+plots = ["matplotlib>=3.7"]
+population = ["numpy>=2.0", "matplotlib>=3.7", "scipy>=1.13"]
+
+[tool.setuptools.packages.find]
+include = ["blotto_lab*", "game2_lab*"]

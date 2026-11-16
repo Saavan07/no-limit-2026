@@ -1,0 +1,83 @@
+{
+  "protocol_version": 1,
+  "seed": 2026111401,
+  "game1_recommendation": [
+    3,
+    8,
+    4,
+    44,
+    41
+  ],
+  "development_top_combined": 16,
+  "development_top_reference": 16,
+  "development_top_family": 8,
+  "development_top_high_four": 24,
+  "new_random_candidates": 256,
+  "unfitted_controls": 24,
+  "arena_random_controls": 48,
+  "evaluation_triplets": 32768,
+  "sampling_alpha": 0.05,
+  "copy_points": [
+    0,
+    0.1,
+    0.25,
+    0.5
+  ],
+  "styles": [
+    "coalition",
+    "rounded",
+    "edge",
+    "counter_aware"
+  ],
+  "residual_mixtures": {
+    "balanced": [
+      0.3333333333333333,
+      0.3333333333333333,
+      0.3333333333333333
+    ],
+    "low_heavy": [
+      0.65,
+      0.25,
+      0.1
+    ],
+    "middle_heavy": [
+      0.2,
+      0.65,
+      0.15
+    ],
+    "near_heavy": [
+      0.2,
+      0.2,
+      0.6
+    ]
+  },
+  "pressure_families": [
+    "threshold_four",
+    "crowded_four",
+    "cheap_overbid",
+    "shifted_near"
+  ],
+  "pressure_masses": [
+    0.1,
+    0.3,
+    0.6
+  ],
+  "steps": 400,
+  "fitness_triplets": 1024,
+  "innovation_every": 50,
+  "settling_steps": 100,
+  "record_every": 20,
+  "seed_mass": 0.003,
+  "archive_proposals": 48,
+  "mutation_proposals": 96,
+  "random_proposals": 32,
+  "search_triplets": 2048,
+  "gate_triplets": 8192,
+  "maximum_rank_gates": 96,
+  "gate_alpha": 0.05,
+  "quantization_mass": 1000000000000,
+  "mutation": 0.005,
+  "history_mass": 0.25,
+  "selection_rule": "minimize maximum three-block empirical regret; exact ties maximize equal-block mean then lexicographic allocation",
+  "development_triplets": 2048
+}

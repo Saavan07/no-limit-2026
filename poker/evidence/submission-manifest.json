@@ -1,0 +1,38 @@
+[
+  {
+    "round": 1,
+    "path": "poker/submissions/round-1.zip",
+    "bytes": 24711,
+    "sha256": "065a41237d7173ebee0f072ef22203ff3c84ff0dee6aa1e958d10309c9e3485c"
+  },
+  {
+    "round": 2,
+    "path": "poker/submissions/round-2.zip",
+    "bytes": 113568,
+    "sha256": "aba619e45ab9cdeb8d43203d869f42ec4c0b681e7fb02e94132636c4ee8e2fc7"
+  },
+  {
+    "round": 3,
+    "path": "poker/submissions/round-3.zip",
+    "bytes": 118411,
+    "sha256": "69f6ff9f36759cfabd02c94f9a38591a53ec33246044141db13b73eb2b46d040"
+  },
+  {
+    "round": 4,
+    "path": "poker/submissions/round-4.zip",
+    "bytes": 121006,
+    "sha256": "2384071770284b0cc92eb75dbfbff7a0b915da1656c617361527251687322b5c"
+  },
+  {
+    "round": 5,
+    "path": "poker/submissions/round-5.zip",
+    "bytes": 121220,
+    "sha256": "1ccf80314044d375fdb803b7f675c2f64efae545a4a76e26688ac043bcbbe558"
+  },
+  {
+    "round": 6,
+    "path": "poker/submissions/round-6.zip",
+    "bytes": 121450,
+    "sha256": "f84deecf56fe364addf4d284fd008372100def58a7a44a15eea0bbdf1885039d"
+  }
+]

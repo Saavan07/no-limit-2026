@@ -1,0 +1,162 @@
+{
+  "applicant_population_forecast": "No empirical estimate. Model and simulation shares are explicit hypothetical evidence.",
+  "created_utc": "2026-10-29T23:54:18.715990+00:00",
+  "decision": {
+    "allocation": [
+      3,
+      8,
+      4,
+      44,
+      41
+    ],
+    "basis": "Unique security-eligible primary leading the previously declared family-average score in both fresh phases; no new vector fitted here",
+    "benchmark": {
+      "decimal": 9.106394470463156,
+      "denominator": 32000000000000,
+      "numerator": 291404623054821
+    },
+    "candidate_id": "c259",
+    "earlier_summary": {
+      "audit": {
+        "minimum": {
+          "decimal": 6.17001,
+          "denominator": 100000,
+          "numerator": 617001
+        },
+        "minimum_model": "audit_125_threshold52",
+        "worst_regret": {
+          "decimal": 6.049915,
+          "denominator": 200000,
+          "numerator": 1209983
+        },
+        "worst_regret_model": "audit_125_threshold52"
+      },
+      "development": {
+        "minimum": {
+          "decimal": 4.397185788027,
+          "denominator": 1000000000000,
+          "numerator": 4397185788027
+        },
+        "minimum_model": "learned__replicator_points_uniform_pool_mu0__final",
+        "worst_regret": {
+          "decimal": 7.64574367308,
+          "denominator": 25000000000,
+          "numerator": 191143591827
+        },
+        "worst_regret_model": "learned__replicator_points_uniform_pool_mu0__final"
+      },
+      "validation": {
+        "minimum": {
+          "decimal": 6.04048,
+          "denominator": 6250,
+          "numerator": 37753
+        },
+        "minimum_model": "validation_125_geometric_value",
+        "worst_regret": {
+          "decimal": 5.923465,
+          "denominator": 200000,
+          "numerator": 1184693
+        },
+        "worst_regret_model": "validation_125_geometric_value"
+      }
+    },
+    "phase_summary": {
+      "challenge": {
+        "family_balanced_mean": {
+          "decimal": 8.595322022959959,
+          "denominator": 24000000000000,
+          "numerator": 206287728551039
+        },
+        "family_minimum": {
+          "decimal": 7.391142,
+          "denominator": 500000,
+          "numerator": 3695571
+        },
+        "individual_minimum": {
+          "decimal": 6.305135,
+          "denominator": 200000,
+          "numerator": 1261027
+        },
+        "individual_worst_regret": {
+          "decimal": 4.3888025,
+          "denominator": 400000,
+          "numerator": 1755521
+        },
+        "minimum_scenarios": [
+          "challenge_125_soft"
+        ],
+        "worst_regret_scenarios": [
+          "challenge_125_soft"
+        ]
+      },
+      "confirmation": {
+        "family_balanced_mean": {
+          "decimal": 9.617466917966354,
+          "denominator": 9600000000000,
+          "numerator": 92327682412477
+        },
+        "family_minimum": {
+          "decimal": 8.218685076766667,
+          "denominator": 30000000000,
+          "numerator": 246560552303
+        },
+        "individual_minimum": {
+          "decimal": 6.999813560625,
+          "denominator": 1600000000,
+          "numerator": 11199701697
+        },
+        "individual_worst_regret": {
+          "decimal": 4.990260815625,
+          "denominator": 320000000,
+          "numerator": 1596883461
+        },
+        "minimum_scenarios": [
+          "confirmation_w1_replicator_final"
+        ],
+        "worst_regret_scenarios": [
+          "confirmation_w1_replicator_final"
+        ]
+      }
+    },
+    "pure_security": {
+      "decimal": 2.0,
+      "denominator": 1,
+      "numerator": 2
+    },
+    "ranks": {
+      "arena_average": {
+        "field_size": 503,
+        "frozen_individual": true,
+        "rank": 51,
+        "ties": 1
+      },
+      "arena_final": {
+        "field_size": 503,
+        "frozen_individual": true,
+        "rank": 45,
+        "ties": 1
+      },
+      "benchmark": {
+        "field_size": 503,
+        "frozen_individual": true,
+        "rank": 12,
+        "ties": 1
+      }
+    },
+    "rule": "prior_box_regret_security2",
+    "submission_format": "3,8,4,44,41",
+    "uncertainty": "No empirical applicant-frequency estimates. Constructed-model weights and learning frequencies are assumptions and outcomes of simulations."
+  },
+  "game2_status": "not started; human ideas reserved",
+  "source_artifact_sha256": {
+    "results/final-game1/frozen-candidates.json": "25044657ef90d9b0305ddb664918181e7930daaed3820a09e48d5e3cb8fb447b",
+    "results/game1-selected-v1-evidence/acceptance.json": "c72ab1450ffe7d5e6dc2793b66e9d920add9797ae38f86109e89fc77ca6a36f8",
+    "results/game1-selected-v1-evidence/verify_selection_review.py": "c36b1fe20fe4348c52dc71ddc7cb7f07fef787363649217bcc682923c5053037",
+    "results/selection-review/human-range-rankings.csv": "f84d197d457af7cbab4d81190b4ff60bb0dc3d6d0dd0c2aa1ee6777bceec40b7",
+    "results/selection-review/pooled-final-strategy-shares.csv": "b655a8715341ba55f63f21683e6d6c11b1e6dfb999710e530c96cd74f41dacf3",
+    "results/selection-review/results.json": "7335ecdf5b7cb7d0ea73b622fd171b98def1ff9fefde438b9cb31f20ee80d2fd",
+    "results/selection-review/selected-game1.txt": "60df36cc118f24359ebfd4b5b420f8ee8359ed9930300d069d2e8816f2f0779d"
+  },
+  "status": "Recommended Game 1 fixed submission selected; not submitted",
+  "version": 1
+}
